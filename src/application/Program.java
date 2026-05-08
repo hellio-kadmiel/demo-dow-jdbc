@@ -1,7 +1,7 @@
 package application;
 
-import moldel.entites.Department;
-import moldel.entites.Seller;
+import moldel.entities.Department;
+import moldel.entities.Seller;
 
 import java.util.Date;
 

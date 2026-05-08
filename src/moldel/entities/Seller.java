@@ -1,4 +1,4 @@
-package moldel.entites;
+package moldel.entities;
 
 import java.io.Serializable;
 import java.util.Date;
