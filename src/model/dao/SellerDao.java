@@ -1,6 +1,5 @@
 package model.dao;
 
-import moldel.entities.Department;
 import moldel.entities.Seller;
 
 import java.util.List;
